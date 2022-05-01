@@ -1,2 +1,2 @@
 # DIO-Primeiros-comandos-Github
-Comandos básicos para inicialização em github
+Comandos básicos para inicialização em git/github
