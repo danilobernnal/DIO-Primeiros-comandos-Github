@@ -1,0 +1,56 @@
+ABRINDO TERMINAL DO WINDOWS
+botão windows + cmd
+
+LISTAR PASTAS (REPOSITÓRIOS)
+comando para listar = DIR
+
+
+NAVEGAR POR PASTAS
+comando para navegar/procurar na pasta = CD /
+\\ essa "/" no final é pra indicar um caminho específico
+
+
+SAIR DE UMA PASTA
+CD ..
+\\ serve pra retornar ou voltar à base ("pasta") anterior
+
+
+OUTROS COMANDOS
+comando para limpar a tela = cls
+
+comando tecla TAB
+\\ auto completa um nome; Exemplo ao digitar "W" + TAB ele completa "Windows"
+
+
+CRIAR PASTA
+comando para criar pastas = mkdir
+Exemplo: mkdir + "nome da pasta"
+
+mkdir workspace
+
+workspace>echo hello \\ pressiona enter
+workspace>echo hello > hello.txt \\ ele cria um arquivo com o nome "hello"
+
+
+DELETAR
+deletar repositório/pasta = rmdir "nome da pasta"/s/q
+
+deletar arquivo = del "nome da pasta"
+\\aqui digita-se o nome da pasta que armazena os arquivos
+
+
+LISTAR
+ls // lista as pastas contidas no repositório
+
+
+LIMPAR TELA
+ctrl + L \\ limpa a tela
+
+
+INICALIZAR GIT
+git init \\ inicializa o git dentro da pasta selecionada
+
+
+LISTAR PASTAS OCULTAS
+ls -a \\ lista pastas ocultas dentro do repositório, tais como .git
+
